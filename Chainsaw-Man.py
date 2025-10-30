@@ -1,7 +1,7 @@
 import pyxel
 
 # Pyxel初期化:幅160×高さ120ピクセル、タイトル設定
-pyxel.init(160, 120, title="Pyxel Title Test")
+pyxel.init(160, 120, title="Chainsaw-Man")
 
 # 画像を読み込む(GitHubのURLに置き換えてね)
 pyxel.image(0).load(0, 0, "https://raw.githubusercontent.com/Kou2524/Pyxel_Chainsaw-Man/main/IRIS-OUT_1536.PNG")
